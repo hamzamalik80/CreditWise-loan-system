@@ -1,2 +1,20 @@
-# CreditWise-loan-system
-A Minor Project developed as part of the Prime 2.0 AI/ML Batch, focused on building a Machine Learning-based Creditwise Loan Prediction System.
+# CreditWise – Loan Eligibility Assessment System
+
+A Machine Learning powered web application that assesses loan eligibility using Logistic Regression.
+
+## 🚀 Live Demo
+Visit CreditWise: (https://creditwise-eligibility.streamlit.app/)
+
+## 🤖 Machine Learning
+- Algorithm: Logistic Regression
+- Accuracy: 88%
+- Precision: 78.46%
+- Recall: 83.61%
+- F1 Score: 80.95%
+
+## 🛠️ Technologies
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Streamlit
+- Joblib
